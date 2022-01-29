@@ -620,7 +620,7 @@ livere_uid: # <your_uid>
 gitalk:
   enable: true
   github_id: payen-py # GitHub repo owner
-  repo: BlogComment # Repository name to store issues
+  repo: Payen-Blog # Repository name to store issues
   client_id: 3d6e6da661588c8f12b9 # GitHub Application Client ID
   client_secret: 18f89131c9c6b9029f29c4da0f7a350220ae59ee # GitHub Application Client Secret
   admin_user: payen-py # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
