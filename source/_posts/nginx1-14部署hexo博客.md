@@ -1,8 +1,8 @@
 ---
 title: nginx1.14部署hexo博客
 tags:
-  - nginx
-  - hexo
+  - Nginx
+  - Hexo
   - 博客
 categories:
   - - Linux
