@@ -11,7 +11,7 @@ categories:
     - Hexo
   - - 博客部署
 date: 2022-01-29 20:47:11
-updated: 2022-01-30 00:00:00
+updated: 2022-02-01 00:00:00
 ---
 
 
@@ -23,7 +23,7 @@ hexo的安装和基本操作见[Hexo官方文档](https://hexo.io/docs/)
 
 ### 修改_config.yml文件
 
-修改文件中的url，后面nginx中的locatio要与它的相对路径与保持一致
+修改文件中的url，后面nginx中的location要与它的相对路径与保持一致
 
 ```yaml
 # URL
