@@ -224,7 +224,7 @@ footer:
     # The full num of gongan beian.
     gongan_num: 京公网安备11010802038838号
     # The icon for gongan beian. See: http://www.beian.gov.cn/portal/download
-    gongan_icon_url: /beian.jpg
+    gongan_icon_url: /images/beian.jpg
 
 
 # ---------------------------------------------------------------
@@ -478,7 +478,7 @@ exturl_icon: true
 
 # Google Webmaster tools verification.
 # See: https://developers.google.com/search
-google_site_verification:
+google_site_verification: XsD3dKlJoSP-eDmzBk0zRU9v5bYNE_FpxyyL05iI-ek
 
 # Bing Webmaster tools verification.
 # See: https://www.bing.com/webmasters
@@ -490,7 +490,7 @@ yandex_site_verification:
 
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
-baidu_site_verification:
+baidu_site_verification: code-mYkMsaWdJK
 
 
 # ---------------------------------------------------------------

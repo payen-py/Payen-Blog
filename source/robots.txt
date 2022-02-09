@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /posts/
+Allow: /about/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://www.pengyu.website/sitemap.xml
+Sitemap: https://www.pengyu.website/baidusitemap.xml

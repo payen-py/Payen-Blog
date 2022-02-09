@@ -15,7 +15,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://pengyu.website/blog
+url: https://www.pengyu.website/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -138,7 +138,7 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: baidu_url_submitter
 
 live2d:
   enable: true
@@ -168,3 +168,15 @@ excerpt:
   excerpt_excludes: []
   more_excludes: []
   hideWholePostExcerpts: true
+
+baidusitemap:
+  path: baidusitemap.xml
+
+sitemap:
+  path: sitemap.xml
+
+baidu_url_submit:
+  count: 5
+  host: https://www.pengyu.website
+  token: XqIlfZiJAxqhL1Da
+  path: baidu_urls.txt
