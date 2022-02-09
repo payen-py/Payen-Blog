@@ -220,9 +220,9 @@ footer:
     enable: true
     icp: 赣ICP备2022001104号-1
     # The digit in the num of gongan beian.
-    gongan_id:
+    gongan_id: 11010802038838
     # The full num of gongan beian.
-    gongan_num:
+    gongan_num: 京公网安备11010802038838号
     # The icon for gongan beian. See: http://www.beian.gov.cn/portal/download
     gongan_icon_url: /beian.jpg
 
